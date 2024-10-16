@@ -20,7 +20,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center "
-                  src={("/assets/nextjs/count.png")}
+                  src={"/assets/nextjs/count.png"}
                   width={150}
                   height={150}
 
@@ -52,7 +52,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={("/assets/nextjs/number.png")}
+                  src={"/assets/nextjs/number.png"}
                   width={150}
                   height={150}
                 />
@@ -83,7 +83,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={("/assets/images/capture1.png")}
+                  src={"/assets/images/capture1.png"}
                   width={150}
                   height={150}
                 />
@@ -114,7 +114,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={("/assets/images/capture.png")}
+                  src={"/assets/images/capture.png"}
                   width={150}
                   height={150}
                 />
@@ -145,7 +145,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={("/assets/nextjs/cal.png")}
+                  src={"/assets/nextjs/cal.png"}
                   width={150}
                   height={150}
                 />
@@ -176,7 +176,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={("/assets/images/figma.png")}
+                  src={"/assets/images/figma.png"}
                   width={150}
                   height={150}
                 />
@@ -207,7 +207,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={("/assets/nextjs/joke.png")}
+                  src={"/assets/nextjs/joke.png"}
                   width={150}
                   height={150}
                 />
@@ -238,7 +238,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={("/assets/nextjs/digi.png")}
+                  src={"/assets/nextjs/digi.png"}
                   width={150}
                   height={150}
                 />
@@ -269,7 +269,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={("/assets/nextjs/birthday.png")}
+                  src={"/assets/nextjs/birthday.png"}
                   width={150}
                   height={150}
                 />
