@@ -1,9 +1,10 @@
+import { div } from "framer-motion/client";
 import React from "react";
 
 const Contact = () => {
-  return (
-    <div id="Contact">
-      <section className="text-gray-600 body-font relative">
+  return ( 
+    <div id="Contact"  className="bg-gradient-to-br from-red-800 via-gray-400 to-teal-600">
+      <section className="text-gray-600 body-font relative ">
         <div className="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap">
           <div className="lg:w-2/3 md:w-1/2 bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
             <iframe
@@ -18,9 +19,9 @@ const Contact = () => {
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3621.1768093286714!2d67.08298485!3d24.8236264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33c7ab9f9a91d%3A0xa460b37f7c165e1d!2sC%20Area%20Qayyumabad%2C%20Karachi%2C%20Karachi%20City%2C%20Sindh!5e0!3m2!1sen!2s!4v1728949277531!5m2!1sen!2s" 
               style={{ filter: " contrast(1.2) opacity(0.4)" }}
             />
-            <div className="bg-white relative flex flex-wrap py-6 rounded shadow-md">
-              <div className="lg:w-1/2 px-6">
-                <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
+            <div className="bg-white relative flex  flex-wrap py-6 rounded shadow-md">
+              <div className="lg:w-1/2 px-6 ">
+                <h2 className="title-font  font-semibold text-gray-900 tracking-widest text-xs">
                   ADDRESS
                 </h2>
                 <p className="mt-1">C AREA ,QYUMAABBAD, Karachi.</p>
@@ -39,7 +40,7 @@ const Contact = () => {
               </div>
             </div>
           </div>
-          <div className="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
+          <div className="lg:w-1/3 p-4 rounded-2xl md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0 bg-gradient-to-br from-red-200 via-gray-200 to-teal-200">
             <h2 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               Contact
             </h2>

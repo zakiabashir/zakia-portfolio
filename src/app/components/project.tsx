@@ -4,7 +4,7 @@ import React from "react";
 
 const Project = () => {
   return (
-    <div id="project" className="bg-gradient-to-br from-pink-100 via-gray-200 to-teal-100
+    <div id="project" className="bg-gradient-to-br from-red-800 via-gray-400 to-teal-600
 ">
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
@@ -19,7 +19,7 @@ const Project = () => {
               <div className="flex relative">
                 <Image
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center "
+                  className="absolute inset-0 rounded-2xl w-full h-full object-cover object-center "
                   src={"/assets/nextjs/count.PNG"}
                   width={150}
                   height={150}
@@ -51,7 +51,7 @@ const Project = () => {
               <div className="flex relative">
                 <Image
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 rounded-2xl w-full h-full object-cover object-center"
                   src={"/assets/nextjs/number.PNG"}
                   width={150}
                   height={150}
@@ -82,7 +82,7 @@ const Project = () => {
               <div className="flex relative">
                 <Image
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 rounded-2xl w-full h-full object-cover object-center"
                   src={"/assets/images/Capture1.PNG"}
                   width={150}
                   height={150}
@@ -113,7 +113,7 @@ const Project = () => {
               <div className="flex relative">
                 <Image
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 rounded-2xl w-full h-full object-cover object-center"
                   src={"/assets/images/Capture.PNG"}
                   width={150}
                   height={150}
@@ -144,7 +144,7 @@ const Project = () => {
               <div className="flex relative">
                 <Image
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 rounded-2xl w-full h-full object-cover object-center"
                   src={"/assets/nextjs/cal.PNG"}
                   width={150}
                   height={150}
@@ -175,7 +175,7 @@ const Project = () => {
               <div className="flex relative">
                 <Image
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 rounded-2xl w-full h-full object-cover object-center"
                   src={"/assets/images/figma.PNG"}
                   width={150}
                   height={150}
@@ -206,7 +206,7 @@ const Project = () => {
               <div className="flex relative">
                 <Image
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 rounded-2xl w-full h-full object-cover object-center"
                   src={"/assets/nextjs/joke.PNG"}
                   width={150}
                   height={150}
@@ -237,7 +237,7 @@ const Project = () => {
               <div className="flex relative">
                 <Image
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 rounded-2xl w-full h-full object-cover object-center"
                   src={"/assets/nextjs/digi.PNG"}
                   width={150}
                   height={150}
@@ -268,7 +268,7 @@ const Project = () => {
               <div className="flex relative">
                 <Image
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 rounded-2xl w-full h-full object-cover object-center"
                   src={"/assets/nextjs/birthday.PNG"}
                   width={150}
                   height={150}

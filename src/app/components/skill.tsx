@@ -3,7 +3,7 @@ import { AiOutlineCheckSquare } from "react-icons/ai";
 
 const Skill = () => {
   return (
-    <div id="skills" className="bg-gradient-to-br from-pink-100 via-gray-200 to-teal-100">
+    <div id="skills" className="bg-gradient-to-br from-red-800 via-gray-400 to-teal-600">
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-20">
@@ -28,9 +28,9 @@ const Skill = () => {
                 </div>
                 <div className="flex-grow">
                   <div className="relative h-1 w-full bg-gray-300 rounded-xl">
-                    <div className="absolute bg-blue-500 h-1 rounded-xl w-[98%]"></div>
+                    <div className="absolute bg-blue-800 h-1 rounded-xl w-[98%]"></div>
                   </div>
-                  <p className="font-bold text-blue-500 text-right">98%</p>
+                  <p className="font-bold text-blue-800 text-right">98%</p>
                 </div>
               </div>
             </div>
@@ -47,9 +47,9 @@ const Skill = () => {
                 </div>
                 <div className="flex-grow">
                   <div className="relative h-1 w-full bg-gray-300 rounded-xl">
-                    <div className="absolute bg-blue-500 h-1 rounded-xl w-[95%]"></div>
+                    <div className="absolute bg-blue-800 h-1 rounded-xl w-[95%]"></div>
                   </div>
-                  <p className="font-bold text-blue-500 text-right">95%</p>
+                  <p className="font-bold text-blue-800 text-right">95%</p>
                 </div>
               </div>
             </div>
@@ -66,9 +66,9 @@ const Skill = () => {
                 </div>
                 <div className="flex-grow">
                   <div className="relative h-1 w-full bg-gray-300 rounded-xl">
-                    <div className="absolute bg-blue-500 h-1 rounded-xl w-[90%]"></div>
+                    <div className="absolute bg-blue-800 h-1 rounded-xl w-[90%]"></div>
                   </div>
-                  <p className="font-bold text-blue-500 text-right">90%</p>
+                  <p className="font-bold text-blue-800 text-right">90%</p>
                 </div>
               </div>
             </div>
@@ -85,9 +85,9 @@ const Skill = () => {
                 </div>
                 <div className="flex-grow">
                   <div className="relative h-1 w-full bg-gray-300 rounded-xl">
-                    <div className="absolute bg-blue-500 h-1 rounded-xl w-[80%]"></div>
+                    <div className="absolute bg-blue-800 h-1 rounded-xl w-[80%]"></div>
                   </div>
-                  <p className="font-bold text-blue-500 text-right">80%</p>
+                  <p className="font-bold text-blue-800 text-right">80%</p>
                 </div>
               </div>
             </div>
@@ -104,9 +104,9 @@ const Skill = () => {
                 </div>
                 <div className="flex-grow">
                   <div className="relative h-1 w-full bg-gray-300 rounded-xl">
-                    <div className="absolute bg-blue-500 h-1 rounded-xl w-[95%]"></div>
+                    <div className="absolute bg-blue-800 h-1 rounded-xl w-[95%]"></div>
                   </div>
-                  <p className="font-bold text-blue-500 text-right">95%</p>
+                  <p className="font-bold text-blue-800 text-right">95%</p>
                 </div>
               </div>
             </div>
@@ -123,9 +123,9 @@ const Skill = () => {
                 </div>
                 <div className="flex-grow">
                   <div className="relative h-1 w-full bg-gray-300 rounded-xl">
-                    <div className="absolute bg-blue-500 h-1 rounded-xl w-[75%]"></div>
+                    <div className="absolute bg-blue-800 h-1 rounded-xl w-[75%]"></div>
                   </div>
-                  <p className="font-bold text-blue-500 text-right">75%</p>
+                  <p className="font-bold text-blue-800 text-right">75%</p>
                 </div>
               </div>
             </div>
