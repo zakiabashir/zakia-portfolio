@@ -83,7 +83,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={"/assets/images/capture1.PNG"}
+                  src={"/assets/images/Capture1.PNG"}
                   width={150}
                   height={150}
                 />
@@ -114,7 +114,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={"/assets/images/capture.PNG"}
+                  src={"/assets/images/Capture.PNG"}
                   width={150}
                   height={150}
                 />
