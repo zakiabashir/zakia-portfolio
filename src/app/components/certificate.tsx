@@ -32,7 +32,7 @@ const Certificate = () => {
                   NEXT.JS
                   </h1>
                   <p className="leading-relaxed line-clamp-2">
-                  This is about a "Certificate of Achievement" awarded to Zakia Bashir for successfully completing the "Internship Ready: Next.js Course" on August 19, 2024. The certificate is signed by Najaf Ali, Founder, and GIAIC GPT as the issuer.                  </p>
+                  This is about a &quot;Certificate of Achievement&quot; awarded to Zakia Bashir for successfully completing the &quot;Internship Ready: Next.js Course&quot; on August 19, 2024. The certificate is signed by Najaf Ali, Founder, and GIAIC GPT as the issuer.                  </p>
                 
                 </div>
               </div>
