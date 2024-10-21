@@ -5,6 +5,7 @@ import Contact from "./components/contact";
 import Project from "./components/project";
 import About from "./components/about";
 import Skill from "./components/skill";
+import Certificate from "./components/certificate";
 
 const sectionAnimation = {
   hidden: { opacity: 0, y: 50 },
@@ -41,6 +42,15 @@ export default function Home() {
         <Skill />
       </motion.section>
 
+      <motion.section
+        initial="hidden"
+        animate="visible"
+        variants={sectionAnimation}
+        transition={{ duration: 1.1 }}
+      >
+        <Certificate />
+      </motion.section>
+      
       <motion.section
         initial="hidden"
         animate="visible"

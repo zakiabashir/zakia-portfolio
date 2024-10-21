@@ -28,14 +28,20 @@ const Navbar = () => {
             <Link href={"#skills"} className="mr-5 hover:text-blue-600 p-2 bg-gradient-to-br from-red-150 via-gray-150 to-teal-150">
               Skills
             </Link>
+            <Link href={"#certificate"} className="mr-5 hover:text-blue-600 p-2 bg-gradient-to-br from-red-150 via-gray-150 to-teal-150">
+              Certificates
+            </Link>
             <Link href={"#project"} className="mr-5 hover:text-blue-600 p-2 bg-gradient-to-br from-red-150 via-gray-150 to-teal-150">
               Projects
             </Link>
+
             <Link href={"#Contact"} className="mr-5 hover:text-blue-600 p-2 bg-gradient-to-br from-red-150 via-gray-150 to-teal-150">
               Contact
             </Link>
           </nav>
-          <a href="/assets/nextjs/zakia-resume.pdf">
+          <a
+          target="_blank"
+           href="/assets/nextjs/zakia-resume.pdf">
             <button className="inline-flex items-center bg-gray-200 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">
               Download CV
               <AiOutlineCloudDownload className="text-xl ml-2" />

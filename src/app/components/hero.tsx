@@ -18,7 +18,7 @@ const Hero = () => {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
             I am
             <br className="hidden lg:inline-block " />
-            <span className="text-pink-900">
+            <span className="text-pink-500">
               <Typewriter
                 options={{
                   strings: ["Web Developer", "UI/UX Designer"],
